@@ -1,0 +1,21 @@
+.buttons{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.button{
+    border: 1px solid #333;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+.button:hover{
+    color:rgb(112, 107, 107);
+}
+
+li{
+    list-style: none;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
